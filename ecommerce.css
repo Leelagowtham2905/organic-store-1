@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    /* border: 1px solid black;  */
+}
+.navbar{
+    background-color: #e91e63; 
+}
+.navbar-brand{
+    width: 10%;
+
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+    font-size: 17px;
+
+}
+.bgimg{
+    background-image: url(https://img.freepik.com/free-photo/top-view-fresh-fruits-raspberries-plums-inside-black-form-pink-surface_140725-44158.jpg?t=st=1732522415~exp=1732526015~hmac=46d99f87b794d3fbff1f56c149f70e39304e3c916475e0bf93b8032fd5ca2b2f&w=900);
+    width:100vw;
+    height:80vh;
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    color: white;
+    text-shadow: 1px 2px 2px black;
+    font-size: 75px;
+    margin-top: 75px;
+    margin-left: 25px;
+}
+.fa-bars{
+    color: white;
+}
+.fa-bars{
+    color: white;
+}
+.mainhead{
+    color: green;
+    font-size: 45px;
+    
+}
+.hist{
+    color:#e91e63;
+    text-decoration:underline 1px solid gold;
+}
+.apara{
+    color: green;
+    line-height: 25px;
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width: 60px;
+}
+.card-title{
+    color:#e91e63;
+    text-shadow: 1px 1px 1px black;
+}
+.card-text{
+    color:green;
+}
+/* payment  */
+#basic-addon1{
+    background-color: #e91e63;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+#basic-addon1:hover{
+    background-color: white;
+    color: #e91e63;
+    border: 1px solid #e91e63;
+}
+/* contact */
+.form-label{
+    color: #e91e63;
+    font-weight: bold;
+
+}
+/* footer */
+.footer{
+    background-color: #e91e63;
+
+}
+.fhead{
+    color: white;
+    font-weight: bold;
+    
+}
+/* footer content */
+.fcontent h1{
+    color: white;
+    text-decoration: underline 2px solid;
+
+}
+p{
+    color:white;
+}
+/* footer icons */
+.ficons{
+    color: rgb(4, 42, 57);
+    font-size: 30px;
+}
+.ficons .ic:hover{
+    color: white;
+    transform:rotate(180deg);
+}
